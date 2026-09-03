@@ -2,7 +2,7 @@ SQL Fitness Tracker
 
 A relational database design for a fitness-tracking platform — built to model real usage patterns of a fitness app: workouts, wearable device data, subscriptions, health safety alerts, and progress tracking.
 
-
+https://github.com/Aarviziiee/sql-fitness-tracker/blob/main/FITNESSTRACKER_ERDIAGRAM.png
 
 What it models
 
